@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<llistaCompra>
+   <article>
+       <descripcio>Paquet d'arros</descripcio>
+       <quantitat>2.0</quantitat>
+       <unitat>uds</unitat>
+       <seccio>pastes</seccio>
+       <preu>0.8</preu>
+   </article>
+   <article>
+       <descripcio>Llom de porc</descripcio>
+       <quantitat>200.0</quantitat>
+       <unitat>grams</unitat>
+       <seccio>carnisseria</seccio>
+       <preu>3.5</preu>
+   </article>
+   <article>
+       <descripcio>Pressecs</descripcio>
+       <quantitat>2.0</quantitat>
+       <unitat>kg</unitat>
+       <seccio>fruites</seccio>
+       <preu>1.5</preu>
+   </article>
+</llistaCompra>
